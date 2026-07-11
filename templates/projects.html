@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="projects-page">
+    <div class="container">
+        <h2 class="section-title">Featured Projects</h2>
+
+        <div class="row g-4" id="projects-container">
+            <!-- JavaScript will insert project cards here -->
+        </div>
+    </div>
+</section>
+
+<script src="{{ url_for('static', filename='js/projects.js') }}"></script>
+{% endblock %}
