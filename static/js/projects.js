@@ -16,7 +16,7 @@ description:
     description:
       "Machine Learning application for predicting Ford car prices.",
     tech: ["Python", "Scikit-learn", "Streamlit"],
-    link: "#"
+    link: "http://car-price-prediction.duckdns.org/"
   },
 
   {
@@ -26,7 +26,7 @@ description:
     description:
       "Classification model for predicting heart disease.",
     tech: ["TensorFlow", "Machine Learning", "Python"],
-    link: "#"
+    link: "http://heartattack-prediction.duckdns.org/"
   },
   {
   title: "Emotion Detection",
@@ -52,7 +52,7 @@ description:
     "Google Maps API",
     "Tailwind CSS"
   ],
-  link: "#"
+  link: "#####"
 },
  {
   title: "Virtual AI Assistant",
