@@ -12,4 +12,3 @@ COPY . .
 EXPOSE 8505
 
 CMD ["gunicorn", "--bind", "0.0.0.0:8505", "app:app"]
-ubuntu@ip-172-31-13-194:~/my_portfolio$

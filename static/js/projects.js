@@ -1,5 +1,14 @@
 const projects = [
   {
+  title: "Fashion Image Classifier",
+  icon: "fas fa-shirt",
+  image: "/static/images/fashion_classifier.png",
+  description:
+    "AI-powered fashion image classification system that accurately identifies clothing categories from uploaded images using a deep learning CNN model based on MobileNetV2.",
+  tech: ["Python", "TensorFlow", "CNN", "MobileNetV2", "Deep Learning"],
+  link: "#"
+},
+  {
     title: "Movie Recommendation System",
     icon: "fas fa-film",
     image: "/static/images/movie-recommendation.png",
@@ -31,7 +40,7 @@ description:
   {
   title: "Emotion Detection",
   icon: "fas fa-face-smile",
-  image: "/static/images/emotion-detection.png",
+  image: "/static/images/emotion_detection.png",
   description:
     "NLP-based emotion detection system that identifies emotions from text using machine learning techniques.",
   tech: ["Python", "NLP", "TensorFlow", "Machine Learning"],
