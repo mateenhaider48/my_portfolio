@@ -2,11 +2,11 @@ const projects = [
   {
   title: "Fashion Image Classifier",
   icon: "fas fa-shirt",
-  image: "/static/images/fashion_classifier.png",
+  image: "/static/images/fashion-image-classifier.png",
   description:
     "AI-powered fashion image classification system that accurately identifies clothing categories from uploaded images using a deep learning CNN model based on MobileNetV2.",
   tech: ["Python", "TensorFlow", "CNN", "MobileNetV2", "Deep Learning"],
-  link: "#"
+  link: "https://fashion-image-classifier.duckdns.org/"
 },
   {
     title: "Movie Recommendation System",
@@ -15,7 +15,7 @@ const projects = [
 description:
   "Content-based movie recommendation system using NLP (TF-IDF), Machine Learning, and FastAPI.",
     tech: ["Python", "FastAPI", "Scikit-learn", "TMDB API"],
-    link: "http://movie-recommendation.duckdns.org/"
+    link: "https://movie-recommendation.duckdns.org/"
   },
 
   {
@@ -25,7 +25,7 @@ description:
     description:
       "Machine Learning application for predicting Ford car prices.",
     tech: ["Python", "Scikit-learn", "Streamlit"],
-    link: "http://car-price-prediction.duckdns.org/"
+    link: "https://car-price-prediction.duckdns.org/"
   },
 
   {
@@ -35,7 +35,7 @@ description:
     description:
       "Classification model for predicting heart disease.",
     tech: ["TensorFlow", "Machine Learning", "Python"],
-    link: "http://heartattack-prediction.duckdns.org/"
+    link: "https://heartattack-prediction.duckdns.org/"
   },
   {
   title: "Emotion Detection",
@@ -44,7 +44,7 @@ description:
   description:
     "NLP-based emotion detection system that identifies emotions from text using machine learning techniques.",
   tech: ["Python", "NLP", "TensorFlow", "Machine Learning"],
-  link: "http://emotiongenai.duckdns.org/"
+  link: "https://emotiongenai.duckdns.org/"
 },
 {
   title: "Rydex Vehicle Booking Platform",
